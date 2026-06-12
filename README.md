@@ -24,4 +24,4 @@ To learn and implement the fundamentals of Version Control using Git and GitHub.
 
 ## Author
 
-Jania Jose# Git Project
+Jania Jose
